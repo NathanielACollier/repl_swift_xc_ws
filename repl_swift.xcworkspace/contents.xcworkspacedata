@@ -3,6 +3,13 @@
    version = "1.0">
    <Group
       location = "container:"
+      name = "TestingSwiftUI">
+      <FileRef
+         location = "group:HelloWorldUI/HelloWorldUI.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
       name = "Testing">
       <FileRef
          location = "group:HelloWorld/HelloWorld.xcodeproj">
