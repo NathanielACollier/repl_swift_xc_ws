@@ -7,6 +7,11 @@
 
 import SwiftUI
 
+/*
+ Following this guide
+ https://www.slingacademy.com/article/swiftui-hello-world/
+ */
+
 struct ContentView: View {
     var body: some View {
         Text("Hello, World!")
